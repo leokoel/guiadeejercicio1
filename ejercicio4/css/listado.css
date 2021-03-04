@@ -1,0 +1,25 @@
+.titulo1{
+	background-color: #202124;
+	color: white;
+	font-size: 30px;
+	height: 70px;
+	width: 500px;
+	padding-top: 25px;
+	font-family: Arial, Helvetica, sans-serif;
+	border-radius: 0.5em;
+}
+
+.cuadro{
+	background-color: #109DD9;
+	width: 600px;
+	font-family: Arial, Helvetica, sans-serif;
+	transition: 1s;
+	border-radius:1em; 
+}
+
+.cuadro:hover{
+	background-color: #8DD0ED;
+box-shadow: 0 0 10px #89938D, 0 0 40px #89938D, 0 0 80px #89938D;
+letter-spacing: 2px;
+color: #103F91;
+}

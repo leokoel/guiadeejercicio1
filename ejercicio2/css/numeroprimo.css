@@ -1,0 +1,71 @@
+.h1text{
+	background-color: #202124;
+	color: white;
+	font-size: 30px;
+	height: 70px;
+	width: 500px;
+	padding-top: 25px;
+}
+
+.formulario	{
+	background-color: #53DF8F;
+	width: 700px;
+	height: 300px;
+	padding-top: 50px;
+	padding-right: 50px;
+	border-radius: 0.5em;
+}
+
+.contenido1 {
+	background-color:#35363A;
+	width: 400px;
+	height: 150px;
+	border-radius: 1.2em;
+	color: white;
+	font-size: 30px;
+	padding-top: 50px;
+	padding-left: 50px; 
+	margin-left: 100px;
+	box-shadow: 21px 15px 32px 4px rgba(0,0,0,0.62);
+	border-radius: 0.5em;
+
+	
+}
+
+.numberlabel {
+	border-radius: 0.5em;
+	width: 150px;
+	height: 30px;
+
+}
+
+.botoneishon {
+	border-radius: 0.3em;
+	color: white;
+	background-color: #2B89D6;
+	width: 120px;
+	height: 40px;
+	font-size: 20px;
+	
+	text-decoration: none;
+	transition: 1s;	
+}
+
+.botoneishon:hover {
+background-color: #62D5FF;
+box-shadow: 0 0 10px #62D5FF, 0 0 40px #62D5FF, 0 0 80px #62D5FF;
+letter-spacing: 4px;
+}
+
+.botoneishon:active {
+	background-color: #28106B;
+}
+
+.resultados1 {
+	background-color: #89938D;
+	width: 400px;
+	height: auto;
+	color: #234531;
+	border-radius: 1em;
+
+}

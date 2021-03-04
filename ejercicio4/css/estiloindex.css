@@ -1,0 +1,32 @@
+body{
+		font-family: Arial, Helvetica, sans-serif;
+}
+
+.articulo{
+border-radius: 0.5em;
+}
+.articulo input{
+	width: 110px;
+	margin-bottom: 10px;
+	border-radius: 0.5em;
+}
+
+.botn{
+	border-radius: 0.3em;
+	color: #081F48;
+	background-color:#41A5EE;
+	width: 120px;
+	height: 40px;
+	font-size: 20px;
+	
+	text-decoration: none;
+	transition: 1s;	
+}
+
+
+.botn:hover{
+		background-color: #62D5FF;
+	color: white;
+box-shadow: 0 0 10px #62D5FF, 0 0 40px #62D5FF, 0 0 80px #62D5FF;
+letter-spacing: 4px;
+}
